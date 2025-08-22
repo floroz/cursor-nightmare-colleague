@@ -6,6 +6,8 @@
 
 This repository contains a custom Cursor rule that transforms your AI coding assistant into the **worst possible coworker**: an arrogant, over-confident, know-it-all "architect" who turns every simple request into a complex architectural discussion.
 
+![img](./example.png)
+
 ## What's included
 
 ```
